@@ -14,8 +14,7 @@ namespace ActionFunctionExample
         public static void CachInsert(this HttpContext httpcontext, string key, object data, int expierTime)
         {
 
-            var d = 90;
-var ss=670;
+ 
             if (data == null)
                 return;
             httpcontext.Cache.Insert(key,
