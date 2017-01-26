@@ -1,0 +1,12 @@
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.exe.config
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.exe
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.pdb
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.exe
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.pdb
+c:\users\m\documents\visual studio 2015\Projects\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.csprojResolveAssemblyReference.cache
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.exe.config
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.exe
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\bin\Debug\ActionFunctionExample.pdb
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.exe
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.pdb
+C:\Users\m\Documents\GitHub\test\git-basics\MyProject\ActionFunctionExample\ActionFunctionExample\obj\Debug\ActionFunctionExample.csprojResolveAssemblyReference.cache
